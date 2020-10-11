@@ -1,2 +1,2 @@
-# UJUAL.github.io
+# TECHNOLOGY TALKS
  Sample web application 
